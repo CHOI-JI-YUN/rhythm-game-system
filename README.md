@@ -42,6 +42,11 @@ C++ 기반으로 다양한 미니게임과 리듬 게임 기능을 구현한 프
 
 ---
 
+## 🎥 시연 영상
+[시연 영상 보기](https://youtube.com/xxxx)
+
+---
+
 ## 📑 발표 자료
 - [발표자료 보기](docs/rhythm_game_presentation.pdf)
 
