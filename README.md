@@ -1,4 +1,4 @@
-# 🎵 Rhythm Game Project
+# 🎵 C++로 구현한 리듬 게임 프로그램
 
 ![Language](https://img.shields.io/badge/Language-C%2B%2B-blue)
 ![Library](https://img.shields.io/badge/Library-SFML-green)
